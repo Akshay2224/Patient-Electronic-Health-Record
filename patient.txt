@@ -1,0 +1,5 @@
+User ID :1001    Name :Aka  City :asd   disease :ada    Consulted Doctor :asd
+User ID :1004    Name :Akshay  City :Shimla   disease :Nothing    Consulted Doctor :ROhit
+User ID :1007   Name :ds  City :sd  disease :sd   Consulted Doctor :sd
+User ID :1008   Name :sf  City :sdf  disease :sd   Consulted Doctor :sf
+User ID :1009   Name :dsf  City :sdf  disease :sd   Consulted Doctor :sdf
