@@ -214,7 +214,7 @@ A:   system("CLS");
 		    	   	  	cout<<line<<endl;
 					}
 		           }
-		           if(count==0);
+		           if(count==0)
 				   {
 				   	gotoxy(20,20);
 				   	cout<<"Record Not Found "<<endl<<endl;
